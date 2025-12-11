@@ -5,9 +5,9 @@
 [Ejercicio_1](EjercicioFor_1.py)
 
 2. Ejercicio 
--[ ] Pide al usuario un número N e imprime la suma de todos los números del 1 al N.  
-[Ejercicio_2](EjercicioFor_2.py)
-
+- [ ] Pide al usuario un número N e imprime la suma de todos los números del 1 al N.  
+[Ejercicio_2](EjercicioFor_2.py)        
+         
 3. Ejercicio
 - [ ] Pide al usuario un número n e imprime su tabla de multiplicar del 1 al 10.  
 [Ejercicio_3](EjercicioFor_3.py)
