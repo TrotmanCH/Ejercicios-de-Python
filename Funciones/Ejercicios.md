@@ -1,4 +1,4 @@
-# Ejercicios del Ciclo For 
+# Ejercicios de Funciones
 
 1. **Ejercicio**
 - [ ]  Función suma de números pares. Crea una función que reciba una lista de números y devuelva la suma de todos los números pares.
