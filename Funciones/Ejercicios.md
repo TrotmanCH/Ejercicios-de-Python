@@ -28,9 +28,6 @@ Recomendacion inicializar la variable contador con el primer numero de la lista.
 7. Ejercicio
 - [ ] Función promedio
 Crea una función que reciba una lista de números y devuelva el promedio de todos ellos.
-recomendacion
-`def promedio(lista): 
-return round(sum(lista) / len(lista), 2)`
 [Ejercicio_7](EjercicioF_7.py)  
 
 8. Ejercicio
@@ -41,7 +38,7 @@ return round(sum(lista) / len(lista), 2)`
 - [ ] Función número repetido. Crea una función que reciba una lista de números y devuelva el número que más veces se repite.
 [Ejercicio_9](EjercicioF_9.py)
 
-10. Ejercicio
+10.  Ejercicio
 - [ ] Función filtrar positivos. Crea una función que reciba una lista de números y devuelva una nueva lista con solo los números positivos. El método append() se usa para agregar un único elemento al final de una lista, sin importar su tipo de dato.
 [Ejercicio_10](EjercicioF_10.py)
 
