@@ -9,5 +9,4 @@ m = int(input("Ingrese otro numero entero "))
 c = n // m
 r = n % m 
 
-print(8 % 2 == 0)
 print(f"{n} entre {m} da un cociente {c} y un resto {r}")
